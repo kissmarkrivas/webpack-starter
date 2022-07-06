@@ -1,7 +1,8 @@
-html, body{
-  margin: 0;
-  background-color: grey;
+html, body {
+    margin: 0;
+    background-color: #ddd;
 }
-img{
-  width: 150px;
+
+img { 
+    width: 150px;
 }
